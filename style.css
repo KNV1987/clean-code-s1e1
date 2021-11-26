@@ -22,7 +22,7 @@
   .header-info { 
     text-align: center;
   }
-  
+
 }
 .main-wrap {
   display: block;
@@ -38,14 +38,14 @@
   display: flex;
 }
 .ul-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .list-item, .name-category {
-  list-style:none;
+  list-style: none;
 }
 .input-task, .btn{
-  outline:none;
+  outline: none;
 }
 .btn {
   background: none;
@@ -137,14 +137,14 @@ label[for="new-task"] {
 
 /* Edit Task */
 .ul-list .list-item input[type=text] {
-  display:none
+  display: none
 }
 
 .ul-list .list-item .edit-mode input[type=text] {
   display:inline-block;
-  width:224px
+  width: 224px
 }
 
 .ul-list .list-item .edit-mode label {
-  display:none;
+  display: none;
 }
